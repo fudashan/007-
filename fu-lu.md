@@ -1,62 +1,3 @@
-so-font-signature:-536870145 1073786111 1 0 415 0;}  
-@font-face  
-	{font-family:微软雅黑;  
-	panose-1:2 11 5 3 2 2 4 2 2 4;  
-	mso-font-alt:Arial;  
-	mso-font-charset:134;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-2147483001 672087122 22 0 262175 0;}  
-@font-face  
-	{font-family:Tahoma;  
-	panose-1:2 11 6 4 3 5 4 4 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}  
-@font-face  
-	{font-family:"\@微软雅黑";  
-	panose-1:2 11 5 3 2 2 4 2 2 4;  
-	mso-font-charset:134;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-2147483001 672087122 22 0 262175 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin-top:0cm;  
-	margin-right:0cm;  
-	margin-bottom:10.0pt;  
-	margin-left:0cm;  
-	mso-pagination:widow-orphan;  
-	layout-grid-mode:char;  
-	mso-layout-grid-align:none;  
-	font-size:11.0pt;  
-	font-family:"Tahoma",sans-serif;  
-	mso-fareast-font-family:微软雅黑;  
-	mso-bidi-font-family:"Times New Roman";}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-family:"Calibri",sans-serif;  
-	mso-ascii-font-family:Calibri;  
-	mso-fareast-font-family:微软雅黑;  
-	mso-hansi-font-family:Calibri;}  
- /\* Page Definitions \*/  
- @page  
-	{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}  
-@page WordSection1  
-	{size:612.0pt 792.0pt;  
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
-	mso-header-margin:36.0pt;  
-	mso-footer-margin:36.0pt;  
-	mso-paper-source:0;}  
-div.WordSection1  
-	{page:WordSection1;}  
---&gt;  
 
 
 1．班级成员名单及作业记录表（如右图）
