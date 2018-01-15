@@ -199,7 +199,7 @@ PS.这个小测试由007-3523张媛媛战友设计
 
 践行规则小测试链接：[https://ks.wjx.top/jq/19745984.aspx](https://ks.wjx.top/jq/19745984.aspx)
 
-![](/assets/TIM图片20180115234456.jpg)
+![](/assets/TIM图片20180115234456.jpg)PS. 测试题图片地址：blob:https://www.gitbook.com/2550da49-e489-429f-adfd-0d687d5b6bb6
 
 ##### 3、班级分组
 
