@@ -3,7 +3,7 @@
 * [封面](feng-mian.md)
 * [绪论：手册缘起](README.md)
 * [一、值月生定位](FIRST.md)
-* [第二章：交接](SECOND.md)
+* [二、首月值月生](SECOND.md)
 * [第三章：建立值月组](THIRD.md)
 * [第四章：开展工作](FOURTH.md)
 * [第五章：值月结束](FIFTH.md)
