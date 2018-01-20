@@ -5,7 +5,7 @@
 * [一、值月生定位](FIRST.md)
 * [二、首月值月生](SECOND.md)
 * [三、交接工作](san-3001-jiao-jie-gong-zuo.md)
-* [第三章：建立值月组](THIRD.md)
+* [四、建立值月组](THIRD.md)
 * [第四章：开展工作](FOURTH.md)
 * [第五章：值月结束](FIFTH.md)
 * [第六章：如何打造“班级智囊团”](SIXTH.md)
